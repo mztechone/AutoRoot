@@ -1,0 +1,1 @@
+wget -N https://raw.githubusercontent.com/mztechone/AutoRoot/main/root.sh && bash root.sh
